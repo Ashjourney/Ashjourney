@@ -1,6 +1,7 @@
-# Hi, I'm Asrritha
+# Hi, I'm Asrritha  
 
-AI/ML Engineer | Founder – SARS Next Solution  
+🎓 M.Tech – BITS Pilani  
+🚀 AI/ML Engineer | Founder – SARS Next Solution  
 
 
 ## About Me

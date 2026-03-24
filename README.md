@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Asrritha
 
-<!--
-**Ashjourney/Ashjourney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Engineer | Founder – SARS Next Solution  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I build AI-powered solutions and real-world software applications.
+
+
+
+## My Projects
+- 🏥 Hospital Management System  
+- 🤖 AI Chatbot  
+- 👤 Face Recognition Attendance System  
+- 📄 ATS Resume Ranking System  
+
+
+## Skills
+Python | Machine Learning | NLP | Computer Vision | SQL | Power BI  | Generative AI | Agentic AI 
+
+
+## Services
+AI/ML Solutions | Digital Transformation and Automation | DevOps | Cloud Engineering | CyberSecurity 
+
+
+## Contact
+📧 info@sarsnextsolution.com  
+🌐 https://www.sarsnextsolution.com/  
+🔗 https://github.com/Ashjourney  
